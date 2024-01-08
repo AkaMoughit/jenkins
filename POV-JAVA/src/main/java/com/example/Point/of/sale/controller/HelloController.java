@@ -15,7 +15,7 @@ public class HelloController {
 
     @GetMapping("/user")
     public String getUsers(){
-        return "Users";
+        return "Abdelmoughit Moubarik";
     }
 
 
