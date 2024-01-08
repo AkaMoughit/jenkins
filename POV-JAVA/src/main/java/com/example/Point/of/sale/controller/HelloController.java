@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping
     public String hello(){
-        return "Hello from jhgjhghjgjhgjh new spring boot application from github webhook :)";
+        return "Hello from new spring boot application from github webhook :)";
     }
 
     @GetMapping("/user")
